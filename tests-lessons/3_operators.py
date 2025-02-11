@@ -10,3 +10,4 @@ print('')
 print('Right!') if number > 10 else print('Not today')
 print('')
 print('') # only making some change to up to git server in new branch
+print('end') # only test of cloned folder
