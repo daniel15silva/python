@@ -1,1 +1,1 @@
-Repository with python tests codes.
+Repository with test codes in python, study and some projects.
